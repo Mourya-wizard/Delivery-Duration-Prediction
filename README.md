@@ -10,7 +10,7 @@ To get started with this project, you'll need Python installed on your system. Y
 pip install numpy pandas matplotlib seaborn xgboost lightgbm scikit-learn statsmodels
 ```
 
-You can download the dataset used in this code from [here](/content/historical_data.csv) and place it in the same directory as the code.
+You can download the dataset used in this code from [here](https://github.com/Mourya-wizard/Delivery-Duration-Prediction/blob/main/historical_data.csv) and place it in the same directory as the code.
 
 ## Code Overview
 
